@@ -20,3 +20,7 @@ By Checkpoint 1:
  2. ACS data analysis
  3. Sales data analysis
  4. Merge datasets
+
+Week 5: Research question analysis
+Week 6: Draft report
+Week 7: Finish report and short video
