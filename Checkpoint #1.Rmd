@@ -1,0 +1,19 @@
+---
+title: "Checkpoint 1"
+author: "Sarah Schmidt"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Eight Major Tasks
+  
+  Our group has made progress in four of the eight major tasks. We have successfully created a GitHub repository for our group. We have all joined as contributors to the depository and uploaded our work thus far. We have also made progress in the analysis of the individual datasets, the ACS data and the sales data. We split the work so two team members worked on each section and completed independent analysis  and visualization of our dataset. We then discussed our findings and decided which visualizations will be useful for the final report. Additionally, we discussed the patterns we found in the data that may be useful for our analysis of the merged data when we get there and what is most relevant to our research question. Finally, we started working on merging the datasets in R.
+
+### Challenges and Victories
+
+  The biggest challenge with working on GitHub is just how unfamiliar we each are with the program. We are all using it for the first time, so that has made it more difficult to use for this project. Our greatest victory with GitHub is that we have all successfully created accounts and connected to the repository.
+  
+### Individual Contributions
+
+  Our team split up with two members working on each of the datasets. Keyla and Sarah worked on the American Community Survey Dataset, while Xinran and Zhengyang worked on the sales dataset. Our independent files can all be found in the GitHub repository under the Checkpoint #1 branch. Additionally, Sarah created this checkpoint #1 report and started to work on merging the datasets.
+
