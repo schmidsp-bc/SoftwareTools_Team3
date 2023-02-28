@@ -14,7 +14,7 @@ Required Task:
  8. Publish a detailed, well formatted R markdown report.
  
  Tasks going forward:
-   Keyla: Introduction and Conclusion
-   Xinran: Data Summary and Presentation Prep
-   Sarah: Data Analytics Compiling and Analysis
-   Zhengyang: Policy Recommendation
+ 1. Keyla: Introduction and Conclusion
+ 2. Xinran: Data Summary and Presentation Prep
+ 3. Sarah: Data Analytics Compiling and Analysis
+ 4. Zhengyang: Policy Recommendation
