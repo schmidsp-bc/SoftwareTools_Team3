@@ -18,18 +18,17 @@ Required Task:
  Tasks going forward:
  1. Keyla: Introduction and Conclusion
  2. Xinran: Data Summary and Presentation Prep
- 3. Sarah: Data Analytics Compiling and Analysis
- 4. Zhengyang: Policy Recommendation
+ 3. Sarah: Data Analytics Compiling and Analysis, policy recommendation
 
 Report Outline:
 1. Introduction
-   a. Address decision maker: liquor store owner
-   b. Address policy decision: to invest in high-end or low-end liquor
-   c. Research question: Does geographies with higher income consume more liquor? Per capita? Subcategory?
+   + Address decision maker: liquor store owner
+   + Address policy decision: to invest in high-end or low-end liquor
+   + Research question: Does geographies with higher income consume more liquor? Per capita? Subcategory?
 2. Data Summary
-   a. Sales dataset description
-   b. ACS dataset description
-   c. Descriptive Statistics
+   + Sales dataset description
+   + ACS dataset description
+   + Descriptive Statistics
 3. Data Analytics
    + Sales data
       - Sales by County tableau 
@@ -54,7 +53,7 @@ Report Outline:
    + Excursion
    + Advantages and challenges
 4. Conclusion
-   a. Sum up results
+   + Sum up results
 5. Policy Recommendation
-   a. Address decision maker: liquor store owner
-   b. Policy Recommendation
+   + Address decision maker: liquor store owner
+   + Policy Recommendation
