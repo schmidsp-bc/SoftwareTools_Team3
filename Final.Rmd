@@ -1,0 +1,114 @@
+---
+title: "Final Report"
+author: "Sarah Schmidt"
+date: "`r Sys.Date()`"
+output: html_document
+---
+```{r, echo=FALSE, message=FALSE}
+library(readr)
+library(dplyr)
+library(tidyverse)
+library(stargazer)
+library(ggplot2)
+```
+
+```{r, echo=FALSE}
+#Import Datasets
+cities   = "https://raw.githubusercontent.com/schmidsp-bc/SoftwareTools_Team3/Team3_Checkpoint%232/project.cities.csv"
+counties = "https://raw.githubusercontent.com/schmidsp-bc/SoftwareTools_Team3/Team3_Checkpoint%232/project.counties.csv"
+zipcodes = "https://raw.githubusercontent.com/schmidsp-bc/SoftwareTools_Team3/Team3_Checkpoint%232/project.zipcodes.csv"
+cities   <- read_csv(url(cities),   show_col_types = FALSE)
+counties <- read_csv(url(counties), show_col_types = FALSE)
+zipcodes <- read_csv(url(zipcodes), show_col_types = FALSE)
+
+# Create Total Datasets
+cities.total.sales   <- cities %>% select(city, income, sale.dollars, sale.volume, population)
+cities.total.sales   <- cities.total.sales %>%
+  group_by(city) %>%
+  summarize(total.sales.dollars = sum(sale.dollars), 
+            total.sales.volume  = sum(sale.volume), 
+            income              = median(income),
+            population          = median(population))
+
+counties.total.sales <- counties %>% select(county, income, sale.dollars, sale.volume, population)
+counties.total.sales <- counties.total.sales %>%
+  group_by(county) %>%
+  summarize(total.sales.dollars = sum(sale.dollars),
+            total.sales.volume  = sum(sale.volume), 
+            income              = median(income),
+            population          = median(population))
+
+zipcodes.total.sales <- zipcodes %>% select(zipcode, income, sale.dollars, sale.volume, population)
+zipcodes.total.sales <- zipcodes.total.sales %>%
+  group_by(zipcode) %>%
+  summarize(total.sales.dollars = sum(sale.dollars), 
+            total.sales.volume  = sum(sale.volume), 
+            income              = median(income),
+            population          = median(population))
+```
+
+### Introduction
+
+### Data Summary
+```{r echo=FALSE}
+stargazer(as.data.frame(cities),   type = "text", title = "Iowa Cities Dataset")
+stargazer(as.data.frame(counties), type = "text", title = "Iowa Counties Dataset")
+stargazer(as.data.frame(zipcodes), type = "text", title = "Iowa Zipcodes Dataset")
+```
+
+### Data Analytics
+  The analytics of this project is broken down into three sections. First, the analysis of the sales data as its own dataset, followed by the ACS data as its own dataset. Finally, we will address our research question that pertains to the merging of these two resources. 
+  
+#### Sales Data
+    Sales by County tableau
+    Sales by City tableau
+    Sales by Zipcodes Tableau
+    Category Sales Dynamics Tableau
+
+#### ACS Data
+    Income by county tableau
+```{r, echo = FALSE, warning=FALSE, message = FALSE}
+ggplot(counties, aes(x = unemployment, y = income)) +
+  geom_point() +
+  geom_smooth(color="darkgrey") +
+  ggtitle("Unemployment vs Income, Counties") +
+  xlab("Unemployment Rate") +
+  ylab("Income, USD") +
+  theme_gray() + 
+  theme(plot.title = element_text(hjust = 0.5))
+```
+```{r, warning=FALSE, message=FALSE}
+ggplot(counties, aes(x = high.school, y = income)) +
+  geom_point() +
+  geom_smooth(color="darkgrey") +
+  ggtitle("High School Graduates vs Income, Counties") +
+  xlab("Percent Population High School Graduates") +
+  ylab("Income, USD") +
+  theme_gray() + 
+  theme(plot.title = element_text(hjust = 0.5))
+
+```
+
+```{r, warning=FALSE, message=FALSE}
+ggplot(counties, aes(x = bachelor, y = income)) +
+  geom_point() +
+  geom_smooth(color="darkgrey") +
+  ggtitle("Bachelor Degree Holders vs Income, Counties") +
+  xlab("Percent Population with Bachelor Degrees") +
+  ylab("Income, USD") +
+  theme_gray() + 
+  theme(plot.title = element_text(hjust = 0.5))
+
+```
+
+#### Research Question
+  ##### Sales vs Income
+  ##### Per Capita
+  ##### By Category
+  
+#### Excursion
+#### Advatages and Challenges
+
+### Conclusion
+
+### Policy Recommendation
