@@ -31,15 +31,15 @@ Report Outline:
    b. ACS dataset description
    c. Descriptive Statistics
 3. Data Analytics
-   a. Sales data
+   + Sales data
       - Sales by County tableau 
       - Sales by City tableau
       - Sales by Zipcode map tableau
       - Category Sales Dynamics tableau
-   b. ACS data
+   + ACS data
       - Income by county tableau
       - Maybe: Unemployment vs income R, degress vs income R
-   c. Research question
+   + Research question
       - Sales vs income
         + County scatterplot R
         + City scatterplot R
@@ -51,8 +51,8 @@ Report Outline:
         + Zipcodes scatterplot R
       - Category
         + Category Sales by Income tableau
-   d. Excursion
-   e. Advantages and challenges
+   + Excursion
+   + Advantages and challenges
 4. Conclusion
    a. Sum up results
 5. Policy Recommendation
