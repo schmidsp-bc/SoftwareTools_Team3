@@ -41,8 +41,16 @@ Report Outline:
       - Maybe: Unemployment vs income R, degress vs income R
    c. Research question
       - Sales vs income
+        + County scatterplot R
+        + City scatterplot R
+        + Zipcodes R
       - Per capita
+        + Sales vs Population R
+        + County scatterplot R
+        + City scatterplot R
+        + Zipcodes scatterplot R
       - Category
+        + Category Sales by Income tableau
    d. Excursion
    e. Advantages and challenges
 4. Conclusion
