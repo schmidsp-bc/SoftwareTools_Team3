@@ -178,8 +178,10 @@ already doing so.
 
 Within the liquor sales data, we were also interested in the dynamics of
 sales between the different liquor categories.
-![](Category_sales_dynamics.png) The top two selling liquors, whisky and
-vodka, account for over half of all the sales across the state. This
+
+![](Category_sales_dynamics.png) 
+
+The top two selling liquors, whisky and vodka, account for over half of all the sales across the state. This
 makes these two liquors especially important to the analysis. The
 ranking of category sales in dollars and volume are identical except for
 the reversal of gin and brandy between the two. Gin comprises less of
