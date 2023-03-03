@@ -29,6 +29,34 @@ correlated.
 
 ### Data Summary
 
+To answer our research question and provide our recommendation, we
+utilized two datasets. First, we used a dataset on liquor sales in Iowa,
+which included variables on sales in both dollars and volume across
+liquor categories. The dataset is typically used for market research and
+analysis to gain insight into consumer behavior, preferences, and
+trends. The second dataset we utilized came from the American Community
+Survey \[ACS\] and include demographic and socioeconomic variables for
+regions across the state of Iowa, including racial variables, education
+indicators, and median income. Both datasets were measured across three
+different geographic metrics: counties, cities, and zipcodes. We merged
+these two datasets across each geographic metric, resulting in three
+data frames that included liquor sales and demographic data for Iowa
+counties, cities, and zipcodes. The goal of the inclusion of demographic
+and economic data was to provide a more comprehensive analysis of the
+factors that may influence alcohol sales.
+
+By using the demographic and economic data as independent variables and
+the sales data as dependent, we can view and analyze the relationship
+between the socioeconomic factors and liquor consumption. In this
+particular case, we are looking for a correlation between income levels
+and alcohol sales across the different geographic metrics.
+
+Descriptive statistics can be used to summarize the data and identify
+patterns or trends in liquor sales. We use measures of central tendency
+(e.g., mean, median) and measures of variables (e.g., sales, geographic
+range, and revenue) to provide a general understanding of the data set
+and identify any potential outliers or significant trends.
+
     ## 
     ## Iowa Cities Dataset
     ## ==========================================================
@@ -93,19 +121,78 @@ correlated.
     ## sale.volume  4,150 4,367.002  13,426.330    0     185,421 
     ## ----------------------------------------------------------
 
+We provided descriptive statistics for the three data frames that
+resulted from the merging of the data. One point to note is the
+difference in the number of observations between the three data frames.
+Since we are looking at three different geographic metrics, there are
+differences in the number of observations of the three groups.
+
+One of the limitations of this dataset for our research is that it is a
+general view of liquor sales across the whole state and does not provide
+information on where the sales are occurring. Since we are focused on a
+particular chain of liquor stores, using the data may not provide the
+most applicable and accurate results. The relationship between
+socioeconomic factors and alcohol sales may vary depending on the
+location of the store. Therefore, it is important to acknowledge and
+consider this limitations of the data when conducting the analysis. We
+should also attempt to collect additional data, such as store location
+information and sales from this particular chain, to improve the
+accuracy and ablicability of our analysis and recommendation.
+
 ### Data Analytics
 
 To determine our policy recommendation, we created a series of
-visualizations to analyze the
+visualizations of the data. We analyzed each data set independently and
+then merged the data sets to answer our research questions.
 
-#### Sales Data
+We first looked at the Iowa Liquor Sales data. Across each geographic
+metric, we created map visualizations that show the total dollar sales
+of liquor. We also looked into the areas with the top and bottom dollar
+sales. Since our research parameters specified to look across
+geographies, we included analysis of all geographic metrics despite
+showing similar results in each.
 
-![](Dashboard%201.png)
+![](county_sales_dynamics.png)
 
-![](City_sales_dynamics.png) ![](Zipcode_map.png)
+
+The above visualization displays dynamics of sales across the county
+metric. The map shows that the majority of counties have a similar
+amount of sales with a few outliers - notably, the counties that
+represent the top and bottom sellers.
+
+
+![](City_sales_dynamics.png) 
+
+There appears to be more variance in sales across the city geographic
+level than the county level. Between the two graphs, there is expected
+overlap with top selling cities laying within top selling counties.
+Notably, the top selling county contains the top selling capital city,
+Des Moines.
+
+![](Zipcode_map.png)
+
+The total sales by zipcodes are shown in the map above. This view gives
+a more detailed view of the sale dynamics across the state of Iowa. One
+noteworthy point from this map is the small geographic area that covers
+the top selling region of the state, Des Moines. One recommendation for
+the liquor store firm would be to target the Des Moines market if not
+already doing so.
+
+Within the liquor sales data, we were also interested in the dynamics of
+sales between the different liquor categories.
+
 ![](Category_sales_dynamics.png)
 
-#### ACS Data
+The top two selling liquors, whisky and vodka, account for over half of all the sales across the state. This
+makes these two liquors especially important to the analysis. The
+ranking of category sales in dollars and volume are identical except for
+the reversal of gin and brandy between the two. Gin comprises less of
+the total sales in dollars than it does of total sales in volume, which
+shows that it is likely a cheaper liquor.
+
+Since we used the income data from the American Community Survey, we
+analyzed income across the geographic metrics.
+
 
 ![](Final_files/figure-markdown_strict/unnamed-chunk-4-1.png)![](Final_files/figure-markdown_strict/unnamed-chunk-4-2.png)![](Final_files/figure-markdown_strict/unnamed-chunk-4-3.png)
 
