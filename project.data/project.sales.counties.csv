@@ -1,0 +1,991 @@
+county,category,sale.dollars,sale.volume
+Black Hawk,Misc,1310459,75360
+Black Hawk,Whisky,4490927,275531
+Black Hawk,Rum,1953607,137217
+Black Hawk,Brandy,1308312,62581
+Black Hawk,Amaretto,58143,5916
+Black Hawk,Vodka,3669281,296296
+Black Hawk,Gin,579620,44616
+Black Hawk,Schnapps,754695,51979
+Black Hawk,Tequila,1040044,56138
+Black Hawk,Distilled Spirits,124361,13533
+Webster,Misc,323715,19383
+Webster,Whisky,1142636,76594
+Webster,Rum,524140,36895
+Webster,Gin,79048,6402
+Webster,Vodka,797751,72564
+Webster,Brandy,157302,8678
+Webster,Tequila,204349,12497
+Webster,Amaretto,16008,1649
+Webster,Schnapps,156437,10873
+Webster,Distilled Spirits,15528,808
+Fayette,Whisky,473437,35844
+Fayette,Gin,14969,1482
+Fayette,Vodka,217891,23777
+Fayette,Misc,80715,5071
+Fayette,Rum,163182,12221
+Fayette,Brandy,25727,1950
+Fayette,Tequila,50356,3391
+Fayette,Amaretto,4719,595
+Fayette,Schnapps,84803,6972
+Cerro Gordo,Misc,488281,31649
+Cerro Gordo,Tequila,387144,26184
+Cerro Gordo,Rum,759626,55669
+Cerro Gordo,Whisky,1904800,131745
+Cerro Gordo,Distilled Spirits,22001,1140
+Cerro Gordo,Gin,127047,9328
+Cerro Gordo,Vodka,1373412,129311
+Cerro Gordo,Brandy,158610,10723
+Cerro Gordo,Schnapps,237926,17719
+Cerro Gordo,Amaretto,23397,2395
+Winneshiek,Whisky,430894,28228
+Winneshiek,Gin,48167,3395
+Winneshiek,Vodka,302431,28006
+Winneshiek,Misc,123091,6948
+Winneshiek,Rum,197902,13310
+Winneshiek,Brandy,48442,4024
+Winneshiek,Amaretto,6755,629
+Winneshiek,Tequila,63072,4225
+Winneshiek,Schnapps,79322,6261
+Allamakee,Brandy,40302,3649
+Allamakee,Rum,123946,8436
+Allamakee,Tequila,22729,1451
+Allamakee,Misc,69287,4301
+Allamakee,Whisky,287559,21650
+Allamakee,Gin,11174,901
+Allamakee,Vodka,158147,15919
+Allamakee,Amaretto,2381,239
+Allamakee,Schnapps,79787,6237
+Allamakee,Distilled Spirits,3430,232
+Polk,Vodka,16434338,1288859
+Polk,Misc,5464019,302997
+Polk,Brandy,2661985,114798
+Polk,Whisky,20496221,1084197
+Polk,Amaretto,211535,17655
+Polk,Tequila,4764464,276985
+Polk,Rum,6905429,487875
+Polk,Schnapps,1859058,132832
+Polk,Distilled Spirits,265531,20152
+Polk,Gin,1997056,137088
+Lee,Misc,292287,15142
+Lee,Whisky,1216591,71385
+Lee,Amaretto,11300,1178
+Lee,Rum,459113,32823
+Lee,Vodka,685252,64075
+Lee,Tequila,188375,10261
+Lee,Schnapps,250612,18519
+Lee,Brandy,86833,5378
+Lee,Gin,56975,4951
+Lee,Distilled Spirits,29232,3111
+Sac,Misc,32237,1997
+Sac,Vodka,93974,9762
+Sac,Tequila,23763,1370
+Sac,Whisky,233914,18749
+Sac,Rum,95358,6530
+Sac,Distilled Spirits,3109,307
+Sac,Gin,8402,686
+Sac,Brandy,9753,865
+Sac,Amaretto,3312,468
+Sac,Schnapps,24668,2021
+Page,Misc,118591,7081
+Page,Amaretto,4297,433
+Page,Whisky,505394,30826
+Page,Brandy,12917,1006
+Page,Vodka,189230,18018
+Page,Tequila,79100,5499
+Page,Distilled Spirits,6413,399
+Page,Gin,21630,1909
+Page,Rum,164652,11592
+Page,Schnapps,43172,3298
+Madison,Misc,55644,3536
+Madison,Amaretto,1514,158
+Madison,Whisky,284301,18601
+Madison,Tequila,37164,2838
+Madison,Vodka,144499,14312
+Madison,Brandy,9486,707
+Madison,Rum,80602,5765
+Madison,Schnapps,19592,1310
+Madison,Distilled Spirits,5294,387
+Madison,Gin,12733,1025
+Dickinson,Gin,115542,8356
+Dickinson,Misc,335294,20304
+Dickinson,Whisky,1280749,86572
+Dickinson,Vodka,879700,78907
+Dickinson,Brandy,51160,3720
+Dickinson,Rum,672140,47477
+Dickinson,Tequila,200112,13321
+Dickinson,Distilled Spirits,28309,3111
+Dickinson,Amaretto,11002,1268
+Dickinson,Schnapps,190200,12837
+Dallas,Whisky,837213,49908
+Dallas,Rum,290915,20386
+Dallas,Misc,185121,11263
+Dallas,Schnapps,45283,3445
+Johnson,Whisky,5456686,274111
+Johnson,Misc,1447085,82560
+Johnson,Brandy,617356,26245
+Johnson,Tequila,1164141,67061
+Johnson,Distilled Spirits,54407,3886
+Johnson,Gin,683322,45391
+Johnson,Vodka,4432845,347672
+Johnson,Rum,1827454,131848
+Johnson,Amaretto,52411,3982
+Johnson,Schnapps,515505,36520
+Buena Vista,Whisky,644457,44758
+Buena Vista,Misc,130400,7939
+Buena Vista,Vodka,307204,29151
+Buena Vista,Rum,245103,18131
+Buena Vista,Brandy,124708,5731
+Buena Vista,Tequila,121906,6446
+Buena Vista,Gin,44777,3887
+Buena Vista,Distilled Spirits,5261,243
+Buena Vista,Amaretto,5830,686
+Buena Vista,Schnapps,60064,4643
+Adams,Misc,13064,780
+Adams,Whisky,103643,7006
+Adams,Vodka,25321,2686
+Adams,Schnapps,7172,518
+Adams,Tequila,9413,712
+Adams,Distilled Spirits,1044,68
+Adams,Gin,2333,212
+Adams,Rum,14309,985
+Adams,Brandy,2900,249
+Adams,Amaretto,450,60
+Howard,Misc,65745,3818
+Howard,Whisky,250703,18694
+Howard,Brandy,31322,2852
+Howard,Rum,137195,9755
+Howard,Vodka,141754,15683
+Howard,Tequila,27531,1780
+Howard,Gin,11934,965
+Howard,Distilled Spirits,1727,81
+Howard,Amaretto,2637,303
+Howard,Schnapps,76859,6029
+Dubuque,Misc,693468,41572
+Dubuque,Whisky,2665411,169078
+Dubuque,Rum,1244959,86793
+Dubuque,Brandy,405281,19509
+Dubuque,Tequila,396923,22515
+Dubuque,Gin,213859,16388
+Dubuque,Vodka,1976563,169825
+Dubuque,Amaretto,38446,3771
+Dubuque,Schnapps,404441,28591
+Dubuque,Distilled Spirits,56589,6568
+Pottawattamie,Misc,1008737,57186
+Pottawattamie,Whisky,3366132,191260
+Pottawattamie,Gin,209504,15392
+Pottawattamie,Vodka,1952363,174938
+Pottawattamie,Rum,1333010,94084
+Pottawattamie,Brandy,211829,12081
+Pottawattamie,Tequila,680931,36452
+Pottawattamie,Schnapps,489324,32581
+Pottawattamie,Amaretto,48313,4665
+Warren,Misc,203044,12041
+Warren,Vodka,524316,49683
+Warren,Whisky,759226,48395
+Warren,Rum,325306,23426
+Warren,Brandy,25214,1933
+Warren,Tequila,102435,7707
+Warren,Distilled Spirits,12858,583
+Warren,Gin,49678,4141
+Warren,Amaretto,5518,668
+Warren,Schnapps,64437,4501
+Guthrie,Brandy,8664,736
+Guthrie,Whisky,197077,14063
+Guthrie,Gin,9886,901
+Guthrie,Vodka,107500,10216
+Guthrie,Misc,32032,2010
+Guthrie,Rum,56550,3986
+Guthrie,Tequila,20739,1501
+Guthrie,Amaretto,823,77
+Guthrie,Schnapps,13402,1173
+Guthrie,Distilled Spirits,3478,157
+Franklin,Misc,43158,2453
+Franklin,Whisky,198406,15103
+Franklin,Brandy,16182,1397
+Franklin,Rum,66916,5072
+Franklin,Vodka,88030,9470
+Franklin,Tequila,35667,1747
+Franklin,Gin,7585,672
+Franklin,Amaretto,1595,206
+Franklin,Schnapps,25253,2069
+Franklin,Distilled Spirits,2286,128
+Palo Alto,Misc,54142,3006
+Palo Alto,Vodka,117092,12162
+Palo Alto,Whisky,346161,27823
+Palo Alto,Rum,120740,8641
+Palo Alto,Schnapps,37374,2996
+Palo Alto,Tequila,22718,1342
+Palo Alto,Distilled Spirits,3919,323
+Palo Alto,Gin,11088,939
+Palo Alto,Brandy,18435,1617
+Palo Alto,Amaretto,2996,418
+Jones,Vodka,235494,25652
+Jones,Misc,97127,6125
+Jones,Whisky,422302,32952
+Jones,Gin,13987,1212
+Jones,Rum,179294,12795
+Jones,Brandy,22259,1882
+Jones,Tequila,39266,2823
+Jones,Amaretto,3222,401
+Jones,Schnapps,67893,5641
+Jones,Distilled Spirits,4413,270
+Fayette,Distilled Spirits,3499,166
+Story,Misc,701637,41109
+Story,Tequila,423175,26727
+Story,Vodka,1957133,170121
+Story,Whisky,2954904,173036
+Story,Rum,1232907,93260
+Story,Brandy,204617,10873
+Story,Schnapps,258827,18716
+Story,Distilled Spirits,72822,7539
+Story,Gin,264935,19869
+Story,Amaretto,34069,3339
+Boone,Misc,110392,6595
+Boone,Tequila,52539,3498
+Boone,Whisky,586592,40583
+Boone,Vodka,291581,28754
+Boone,Brandy,30032,2335
+Boone,Rum,193903,13826
+Boone,Distilled Spirits,8443,524
+Boone,Gin,32274,2692
+Boone,Amaretto,5443,482
+Boone,Schnapps,61374,4607
+Des Moines,Misc,271480,15114
+Des Moines,Tequila,174684,9720
+Des Moines,Whisky,1089954,64929
+Des Moines,Rum,423190,29840
+Des Moines,Vodka,904903,77026
+Des Moines,Brandy,262735,11035
+Des Moines,Distilled Spirits,27809,2128
+Des Moines,Gin,85675,6991
+Des Moines,Amaretto,11897,1144
+Des Moines,Schnapps,159576,12630
+Linn,Misc,2266978,148465
+Linn,Vodka,5817847,503429
+Linn,Whisky,7245814,425202
+Linn,Rum,2980222,214655
+Linn,Schnapps,1145099,81166
+Linn,Tequila,1519643,87932
+Linn,Distilled Spirits,353111,42013
+Linn,Gin,655811,47472
+Linn,Brandy,1144477,52820
+Linn,Amaretto,82743,7326
+Jasper,Misc,149406,8923
+Jasper,Whisky,663642,44416
+Jasper,Brandy,50335,2949
+Jasper,Rum,253878,19340
+Jasper,Tequila,97579,6677
+Jasper,Distilled Spirits,22410,1417
+Jasper,Gin,33405,2898
+Jasper,Vodka,390391,39259
+Jasper,Amaretto,8886,1139
+Jasper,Schnapps,59396,4886
+Montgomery,Gin,15922,1366
+Montgomery,Misc,58760,3448
+Montgomery,Whisky,261110,17185
+Montgomery,Rum,68305,4989
+Montgomery,Vodka,111596,11295
+Montgomery,Tequila,28010,1693
+Montgomery,Schnapps,26506,2391
+Montgomery,Distilled Spirits,5795,293
+Montgomery,Brandy,12463,1081
+Montgomery,Amaretto,1459,144
+Appanoose,Misc,70681,3909
+Appanoose,Amaretto,5257,506
+Appanoose,Whisky,314443,19653
+Appanoose,Vodka,160579,15761
+Appanoose,Rum,105160,7627
+Appanoose,Brandy,11199,880
+Appanoose,Schnapps,45465,3757
+Appanoose,Tequila,36133,2679
+Appanoose,Distilled Spirits,3942,186
+Appanoose,Gin,13018,1124
+Hardin,Misc,97965,5777
+Hardin,Whisky,536201,36671
+Hardin,Rum,192917,13619
+Hardin,Brandy,22558,1657
+Hardin,Vodka,265031,27389
+Hardin,Schnapps,52218,3899
+Hardin,Tequila,54986,3693
+Hardin,Distilled Spirits,8732,730
+Hardin,Gin,28837,2382
+Hardin,Amaretto,6227,675
+Wapello,Misc,213075,12056
+Wapello,Whisky,908443,55017
+Wapello,Tequila,158762,9115
+Wapello,Rum,353065,24246
+Wapello,Brandy,68125,3971
+Wapello,Vodka,475947,45393
+Wapello,Schnapps,157598,11677
+Wapello,Distilled Spirits,21825,1952
+Wapello,Gin,48920,3910
+Wapello,Amaretto,8506,807
+Marshall,Vodka,602284,56237
+Marshall,Misc,256019,15562
+Marshall,Amaretto,9629,994
+Marshall,Whisky,1088565,67636
+Marshall,Brandy,138997,6902
+Marshall,Rum,353266,25722
+Marshall,Schnapps,110742,8819
+Marshall,Tequila,194806,9185
+Marshall,Distilled Spirits,21266,1977
+Marshall,Gin,75245,6072
+Clarke,Misc,44744,2710
+Clarke,Whisky,242221,15896
+Clarke,Brandy,11978,839
+Clarke,Rum,81336,5767
+Clarke,Vodka,111193,10985
+Clarke,Tequila,35429,2364
+Clarke,Distilled Spirits,4041,188
+Clarke,Gin,11361,1032
+Clarke,Amaretto,2515,232
+Clarke,Schnapps,21248,1827
+Lucas,Vodka,75040,6887
+Lucas,Misc,36050,2168
+Lucas,Whisky,160687,10395
+Lucas,Brandy,7262,583
+Lucas,Rum,48343,3524
+Lucas,Tequila,13575,898
+Lucas,Distilled Spirits,3021,136
+Lucas,Gin,6138,521
+Lucas,Amaretto,1303,99
+Lucas,Schnapps,18500,1473
+Union,Misc,83783,4797
+Union,Whisky,418168,27005
+Union,Rum,119065,8590
+Union,Brandy,16961,1459
+Union,Tequila,40951,2823
+Union,Gin,20810,1899
+Union,Vodka,165844,17279
+Union,Distilled Spirits,5221,241
+Union,Amaretto,7771,826
+Union,Schnapps,40514,3355
+Scott,Misc,1787323,100069
+Scott,Whisky,5934418,322709
+Scott,Gin,673412,48838
+Scott,Vodka,4988165,409536
+Scott,Rum,2260380,162336
+Scott,Brandy,1030088,46655
+Scott,Tequila,1549269,85234
+Scott,Schnapps,913441,63073
+Scott,Amaretto,80034,7766
+Scott,Distilled Spirits,86921,6882
+Emmet,Misc,49332,2989
+Emmet,Whisky,230789,17030
+Emmet,Brandy,11895,862
+Emmet,Rum,121294,8930
+Emmet,Vodka,126833,14070
+Emmet,Tequila,28145,1495
+Emmet,Distilled Spirits,3965,178
+Emmet,Gin,8226,816
+Emmet,Amaretto,2224,255
+Emmet,Schnapps,26548,2053
+Henry,Misc,99507,5203
+Henry,Tequila,47377,3100
+Henry,Whisky,391370,24298
+Henry,Vodka,232506,21220
+Henry,Brandy,39222,2340
+Henry,Schnapps,52435,3928
+Henry,Rum,132003,9054
+Henry,Distilled Spirits,8180,354
+Henry,Gin,24161,2116
+Henry,Amaretto,2498,293
+Monroe,Misc,27582,1661
+Monroe,Rum,43068,2887
+Monroe,Whisky,131199,8999
+Monroe,Gin,4323,372
+Monroe,Vodka,54127,5225
+Monroe,Brandy,6230,456
+Monroe,Tequila,11245,736
+Monroe,Amaretto,1542,176
+Monroe,Schnapps,14613,1092
+Monroe,Distilled Spirits,1882,92
+Clay,Misc,124741,7817
+Clay,Tequila,57827,3823
+Clay,Vodka,306858,31782
+Clay,Whisky,603838,45611
+Clay,Brandy,35834,2909
+Clay,Rum,214640,16640
+Clay,Amaretto,6765,719
+Clay,Schnapps,52938,3971
+Clay,Distilled Spirits,16864,1687
+Clay,Gin,36657,2963
+Marion,Misc,171639,10146
+Marion,Whisky,703511,43319
+Marion,Brandy,35541,2502
+Marion,Rum,300248,21691
+Marion,Vodka,399686,36324
+Marion,Schnapps,80811,5933
+Marion,Tequila,109850,7233
+Marion,Distilled Spirits,18040,1103
+Marion,Gin,40409,3339
+Marion,Amaretto,9864,1063
+Muscatine,Misc,286559,17109
+Muscatine,Whisky,982208,59121
+Muscatine,Brandy,73492,4772
+Muscatine,Rum,455558,32482
+Muscatine,Vodka,647330,61848
+Muscatine,Schnapps,142243,10822
+Muscatine,Tequila,185165,10835
+Muscatine,Distilled Spirits,16352,792
+Muscatine,Gin,67137,5514
+Muscatine,Amaretto,11605,1196
+Floyd,Misc,96878,5530
+Floyd,Vodka,213086,21397
+Floyd,Tequila,52311,3243
+Floyd,Whisky,403486,28639
+Floyd,Brandy,58143,3072
+Floyd,Rum,159656,11126
+Floyd,Amaretto,5709,687
+Floyd,Distilled Spirits,4856,218
+Floyd,Gin,18606,1605
+Floyd,Schnapps,78121,6109
+Poweshiek,Misc,106197,5916
+Poweshiek,Whisky,547662,34216
+Poweshiek,Gin,34843,2742
+Poweshiek,Vodka,269660,25468
+Poweshiek,Rum,182193,12971
+Poweshiek,Brandy,32554,2520
+Poweshiek,Tequila,64016,4019
+Poweshiek,Amaretto,5463,551
+Poweshiek,Schnapps,63570,4699
+Poweshiek,Distilled Spirits,5441,279
+Washington,Rum,202795,14238
+Washington,Whisky,597736,36989
+Washington,Gin,35693,2543
+Washington,Vodka,278362,23263
+Washington,Misc,132244,6995
+Washington,Brandy,32468,2012
+Washington,Tequila,67540,3620
+Washington,Amaretto,5042,514
+Washington,Schnapps,68343,5320
+Washington,Distilled Spirits,7768,701
+Kossuth,Misc,138565,7885
+Kossuth,Whisky,660384,47978
+Kossuth,Vodka,258291,23897
+Kossuth,Brandy,33421,2782
+Kossuth,Rum,262215,18554
+Kossuth,Tequila,60968,3940
+Kossuth,Distilled Spirits,9157,698
+Kossuth,Gin,22472,1766
+Kossuth,Amaretto,6632,761
+Kossuth,Schnapps,86413,6490
+Cass,Tequila,56317,3838
+Cass,Misc,107457,5889
+Cass,Whisky,493445,33527
+Cass,Rum,145327,10701
+Cass,Vodka,201690,20094
+Cass,Distilled Spirits,7075,332
+Cass,Gin,22606,2026
+Cass,Brandy,16734,1384
+Cass,Amaretto,2959,298
+Cass,Schnapps,39139,3132
+Carroll,Misc,163327,9255
+Carroll,Whisky,951051,67419
+Carroll,Brandy,29430,2192
+Carroll,Rum,472691,33192
+Carroll,Vodka,379040,33719
+Carroll,Tequila,78219,4717
+Carroll,Distilled Spirits,28018,3323
+Carroll,Gin,30384,2434
+Carroll,Amaretto,10059,1261
+Carroll,Schnapps,84580,6250
+Woodbury,Misc,870036,48810
+Woodbury,Amaretto,37065,3158
+Woodbury,Whisky,3186676,195163
+Woodbury,Rum,1295409,90890
+Woodbury,Tequila,721903,39378
+Woodbury,Vodka,1864576,156863
+Woodbury,Distilled Spirits,40457,3296
+Woodbury,Gin,208565,15069
+Woodbury,Brandy,396379,20792
+Woodbury,Schnapps,526066,34206
+Crawford,Misc,92697,5367
+Crawford,Tequila,76357,3865
+Crawford,Whisky,511187,36844
+Crawford,Brandy,30894,1968
+Crawford,Vodka,193570,18613
+Crawford,Rum,210218,14900
+Crawford,Schnapps,70670,5334
+Crawford,Distilled Spirits,11072,1272
+Crawford,Gin,18770,1631
+Crawford,Amaretto,5271,548
+Cherokee,Misc,60994,4073
+Cherokee,Tequila,27513,1540
+Cherokee,Whisky,312013,23201
+Cherokee,Brandy,20122,1600
+Cherokee,Rum,106449,7368
+Cherokee,Distilled Spirits,7574,800
+Cherokee,Gin,18085,1522
+Cherokee,Vodka,119897,12057
+Cherokee,Amaretto,1932,244
+Cherokee,Schnapps,37613,2697
+Mahaska,Misc,104862,6317
+Mahaska,Vodka,267717,25629
+Mahaska,Whisky,460294,28193
+Mahaska,Distilled Spirits,14123,1276
+Mahaska,Gin,24086,1991
+Mahaska,Rum,165343,11938
+Mahaska,Brandy,36103,2507
+Mahaska,Tequila,59604,3956
+Mahaska,Amaretto,7400,785
+Mahaska,Schnapps,60290,4733
+Jefferson,Gin,21218,1556
+Jefferson,Misc,71499,4118
+Jefferson,Whisky,307302,17641
+Jefferson,Rum,125181,9091
+Jefferson,Brandy,17039,1102
+Jefferson,Vodka,178949,16470
+Jefferson,Schnapps,31685,2481
+Jefferson,Tequila,45192,2406
+Jefferson,Distilled Spirits,5203,234
+Jefferson,Amaretto,3710,360
+Hamilton,Misc,63166,4315
+Hamilton,Whisky,325369,24414
+Hamilton,Brandy,32921,1999
+Hamilton,Rum,114379,8383
+Hamilton,Vodka,176283,19101
+Hamilton,Schnapps,33180,2549
+Hamilton,Tequila,40711,2702
+Hamilton,Distilled Spirits,3431,178
+Hamilton,Gin,14333,1313
+Hamilton,Amaretto,2420,281
+Plymouth,Misc,133600,7423
+Plymouth,Whisky,615048,42091
+Plymouth,Brandy,40659,3505
+Plymouth,Rum,254808,17370
+Plymouth,Vodka,268578,24143
+Plymouth,Tequila,79596,5499
+Plymouth,Distilled Spirits,5904,304
+Plymouth,Gin,27107,2090
+Plymouth,Amaretto,4931,510
+Plymouth,Schnapps,90247,6991
+Humboldt,Misc,53489,3511
+Humboldt,Tequila,29102,2016
+Humboldt,Whisky,260933,19343
+Humboldt,Brandy,13430,1197
+Humboldt,Rum,103578,7459
+Humboldt,Gin,7877,720
+Humboldt,Vodka,121886,12742
+Humboldt,Distilled Spirits,2725,124
+Humboldt,Amaretto,3304,374
+Humboldt,Schnapps,27901,1897
+Dallas,Vodka,582588,49915
+Dallas,Gin,53943,3787
+Dallas,Brandy,34463,2446
+Dallas,Tequila,134630,9037
+Dallas,Amaretto,5809,448
+Dallas,Distilled Spirits,13625,603
+Pottawattamie,Distilled Spirits,65922,6113
+Clinton,Misc,325744,21467
+Clinton,Whisky,938334,58739
+Clinton,Vodka,755073,70954
+Clinton,Brandy,154560,8056
+Clinton,Rum,504582,37396
+Clinton,Tequila,232579,14901
+Clinton,Distilled Spirits,14747,947
+Clinton,Gin,73020,6678
+Clinton,Amaretto,18127,2096
+Clinton,Schnapps,262643,18827
+Shelby,Misc,58511,3392
+Shelby,Vodka,130789,12612
+Shelby,Whisky,317777,21005
+Shelby,Brandy,11257,874
+Shelby,Rum,133176,9941
+Shelby,Amaretto,2298,274
+Shelby,Tequila,39204,2576
+Shelby,Distilled Spirits,2589,121
+Shelby,Gin,10047,656
+Shelby,Schnapps,36161,2632
+Bremer,Misc,137292,8384
+Bremer,Vodka,357142,34371
+Bremer,Tequila,81558,5547
+Bremer,Brandy,40976,3437
+Bremer,Whisky,665938,47591
+Bremer,Rum,317573,23389
+Bremer,Distilled Spirits,7044,447
+Bremer,Gin,37452,2914
+Bremer,Amaretto,6463,663
+Bremer,Schnapps,93232,7445
+Taylor,Whisky,50673,3431
+Taylor,Gin,1060,106
+Taylor,Vodka,19477,2311
+Taylor,Misc,7434,510
+Taylor,Rum,12792,838
+Taylor,Brandy,1594,139
+Taylor,Tequila,5730,319
+Taylor,Amaretto,1021,70
+Taylor,Schnapps,4789,416
+Taylor,Distilled Spirits,275,13
+Ringgold,Misc,15809,1116
+Ringgold,Whisky,64896,4424
+Ringgold,Vodka,24291,2493
+Ringgold,Brandy,2324,220
+Ringgold,Rum,12194,920
+Ringgold,Gin,2131,203
+Ringgold,Tequila,5716,418
+Ringgold,Amaretto,1355,152
+Ringgold,Schnapps,9758,822
+Ringgold,Distilled Spirits,798,42
+Wayne,Misc,8677,602
+Wayne,Whisky,48401,3269
+Wayne,Gin,2629,248
+Wayne,Vodka,18898,1860
+Wayne,Rum,12854,947
+Wayne,Brandy,1542,145
+Wayne,Tequila,3306,228
+Wayne,Schnapps,6641,593
+Wayne,Distilled Spirits,712,37
+Wayne,Amaretto,762,52
+Sioux,Misc,107037,6306
+Sioux,Tequila,65670,3625
+Sioux,Whisky,567099,40635
+Sioux,Brandy,26244,2082
+Sioux,Rum,288394,19851
+Sioux,Vodka,258135,24058
+Sioux,Gin,17898,1412
+Sioux,Amaretto,8377,757
+Sioux,Schnapps,75755,5529
+Sioux,Distilled Spirits,3775,170
+Obrien,Vodka,189974,19476
+Obrien,Misc,91902,5819
+Obrien,Amaretto,4753,537
+Obrien,Whisky,526532,40902
+Obrien,Rum,226453,15761
+Obrien,Brandy,34776,3010
+Obrien,Schnapps,73746,6219
+Obrien,Tequila,44241,2696
+Obrien,Distilled Spirits,6945,510
+Obrien,Gin,24071,2161
+Decatur,Rum,21841,1475
+Decatur,Whisky,70751,4227
+Decatur,Gin,2416,189
+Decatur,Vodka,37757,3785
+Decatur,Misc,10771,495
+Decatur,Brandy,3901,249
+Decatur,Tequila,5673,317
+Decatur,Amaretto,708,55
+Decatur,Schnapps,11070,833
+Decatur,Distilled Spirits,491,21
+Greene,Vodka,80745,7886
+Greene,Misc,31483,1960
+Greene,Rum,74556,5420
+Greene,Tequila,17545,1227
+Greene,Whisky,162321,10953
+Greene,Distilled Spirits,2480,107
+Greene,Gin,8390,647
+Greene,Brandy,4434,327
+Greene,Amaretto,1739,185
+Greene,Schnapps,16665,1200
+Calhoun,Whisky,141632,11525
+Calhoun,Gin,5530,537
+Calhoun,Vodka,66698,7406
+Calhoun,Misc,21560,1352
+Calhoun,Rum,63282,4524
+Calhoun,Brandy,6569,586
+Calhoun,Tequila,12594,704
+Calhoun,Schnapps,13672,1119
+Calhoun,Amaretto,1837,268
+Calhoun,Distilled Spirits,655,50
+Davis,Misc,5413,439
+Davis,Vodka,24550,2947
+Davis,Whisky,38159,2533
+Davis,Tequila,2479,202
+Davis,Gin,1335,147
+Davis,Rum,12770,900
+Davis,Brandy,2610,260
+Davis,Amaretto,311,36
+Davis,Schnapps,5075,427
+Davis,Distilled Spirits,808,38
+Hancock,Rum,47115,3334
+Hancock,Whisky,118144,10089
+Hancock,Gin,3281,312
+Hancock,Vodka,62175,7157
+Hancock,Misc,15210,1065
+Hancock,Brandy,7079,642
+Hancock,Tequila,10737,776
+Hancock,Amaretto,1144,98
+Hancock,Schnapps,13356,1247
+Wright,Brandy,9258,749
+Wright,Rum,110098,7781
+Wright,Misc,46374,2730
+Wright,Whisky,287821,21560
+Wright,Gin,10143,844
+Wright,Vodka,156735,17132
+Wright,Tequila,33032,2024
+Wright,Amaretto,2150,210
+Wright,Schnapps,27088,2057
+Wright,Distilled Spirits,1452,69
+Delaware,Misc,75640,4273
+Delaware,Brandy,18534,1300
+Delaware,Rum,148740,9887
+Delaware,Vodka,146740,14422
+Delaware,Whisky,377958,27042
+Delaware,Gin,13660,1037
+Delaware,Tequila,37682,2592
+Delaware,Amaretto,2598,248
+Delaware,Schnapps,61342,4508
+Delaware,Distilled Spirits,3157,214
+Louisa,Misc,10850,706
+Louisa,Whisky,83654,5979
+Louisa,Brandy,25461,1508
+Louisa,Rum,48179,3171
+Louisa,Tequila,12467,711
+Louisa,Gin,2225,237
+Louisa,Vodka,34098,3772
+Louisa,Amaretto,451,56
+Louisa,Schnapps,7584,663
+Louisa,Distilled Spirits,1037,51
+Iowa,Misc,36873,2658
+Iowa,Tequila,18281,1386
+Iowa,Vodka,134843,14850
+Iowa,Whisky,260797,20105
+Iowa,Rum,76899,6163
+Iowa,Distilled Spirits,2298,123
+Iowa,Gin,8470,739
+Iowa,Brandy,14560,1324
+Iowa,Amaretto,2198,274
+Iowa,Schnapps,39788,3513
+Jackson,Misc,95635,6045
+Jackson,Tequila,37510,2500
+Jackson,Whisky,463208,33861
+Jackson,Gin,17890,1584
+Jackson,Vodka,208075,21046
+Jackson,Rum,188039,12474
+Jackson,Brandy,22715,1916
+Jackson,Amaretto,5686,754
+Jackson,Schnapps,102001,7738
+Mitchell,Misc,32458,2053
+Mitchell,Whisky,145240,10670
+Mitchell,Gin,5898,568
+Mitchell,Vodka,85902,9601
+Mitchell,Rum,68278,4871
+Mitchell,Brandy,10493,982
+Mitchell,Tequila,19926,1224
+Mitchell,Amaretto,2406,345
+Mitchell,Schnapps,36589,2947
+Mitchell,Distilled Spirits,870,41
+Chickasaw,Whisky,141705,12347
+Chickasaw,Gin,2857,296
+Chickasaw,Vodka,65453,7753
+Chickasaw,Rum,66965,4660
+Chickasaw,Brandy,12981,1240
+Chickasaw,Misc,29044,1704
+Chickasaw,Schnapps,29407,2512
+Chickasaw,Amaretto,1065,136
+Chickasaw,Tequila,10289,580
+Grundy,Tequila,6561,427
+Grundy,Whisky,120550,9608
+Grundy,Misc,16119,1030
+Grundy,Rum,53069,3627
+Grundy,Gin,4100,351
+Grundy,Vodka,72358,8113
+Grundy,Brandy,4924,404
+Grundy,Amaretto,1005,125
+Grundy,Schnapps,14953,1025
+Grundy,Distilled Spirits,2176,96
+Harrison,Whisky,191314,12804
+Harrison,Gin,5729,547
+Harrison,Vodka,78350,7947
+Harrison,Misc,38385,2413
+Harrison,Rum,80717,6053
+Harrison,Brandy,6310,544
+Harrison,Tequila,22122,1547
+Harrison,Schnapps,27755,2424
+Harrison,Amaretto,1108,124
+Harrison,Distilled Spirits,2910,154
+Jackson,Distilled Spirits,3018,136
+Ida,Whisky,224072,15710
+Ida,Gin,10263,897
+Ida,Vodka,70136,6992
+Ida,Misc,36320,1900
+Ida,Rum,79841,5452
+Ida,Brandy,8360,720
+Ida,Tequila,14845,818
+Ida,Schnapps,28467,2122
+Ida,Amaretto,1895,248
+Ida,Distilled Spirits,1335,67
+Pocahontas,Misc,20774,1245
+Pocahontas,Whisky,137378,11377
+Pocahontas,Gin,7326,813
+Pocahontas,Vodka,69946,8537
+Pocahontas,Rum,60112,4487
+Pocahontas,Brandy,6018,499
+Pocahontas,Tequila,8547,522
+Pocahontas,Schnapps,16076,1342
+Pocahontas,Amaretto,1703,239
+Pocahontas,Distilled Spirits,1217,57
+Audubon,Misc,10066,624
+Audubon,Whisky,71730,5796
+Audubon,Gin,2028,162
+Audubon,Vodka,31303,3926
+Audubon,Rum,30595,2232
+Audubon,Brandy,3716,346
+Audubon,Tequila,3430,237
+Audubon,Amaretto,1481,197
+Audubon,Schnapps,6047,564
+Audubon,Distilled Spirits,356,18
+Buchanan,Misc,84207,5055
+Buchanan,Whisky,392947,27337
+Buchanan,Gin,15637,1335
+Buchanan,Vodka,196392,19334
+Buchanan,Rum,154716,11193
+Buchanan,Brandy,18459,1594
+Buchanan,Tequila,71130,5749
+Buchanan,Amaretto,4031,395
+Buchanan,Schnapps,63574,4549
+Buchanan,Distilled Spirits,5107,313
+Worth,Misc,19159,1228
+Worth,Tequila,11127,888
+Worth,Whisky,75721,5707
+Worth,Vodka,41310,4552
+Worth,Rum,43419,3256
+Worth,Amaretto,571,68
+Worth,Gin,5099,386
+Worth,Brandy,10054,785
+Worth,Schnapps,11315,769
+Worth,Distilled Spirits,678,33
+Butler,Vodka,59237,6862
+Butler,Misc,13189,752
+Butler,Whisky,108734,9017
+Butler,Gin,3005,286
+Butler,Rum,44311,3127
+Butler,Brandy,8452,772
+Butler,Tequila,6110,434
+Butler,Schnapps,15711,1313
+Butler,Distilled Spirits,1343,86
+Butler,Amaretto,381,60
+Clayton,Misc,40901,2572
+Clayton,Tequila,16162,972
+Clayton,Whisky,235163,16009
+Clayton,Rum,107217,7236
+Clayton,Distilled Spirits,1568,73
+Clayton,Gin,9843,777
+Clayton,Vodka,102703,11165
+Clayton,Brandy,11290,1059
+Clayton,Amaretto,2019,273
+Clayton,Schnapps,49716,3857
+Chickasaw,Distilled Spirits,1195,69
+Lyon,Misc,44056,2592
+Lyon,Vodka,97451,9217
+Lyon,Whisky,284790,20055
+Lyon,Rum,149521,9718
+Lyon,Schnapps,47098,3221
+Lyon,Tequila,18964,878
+Lyon,Distilled Spirits,2368,115
+Lyon,Gin,6308,456
+Lyon,Brandy,18360,1544
+Lyon,Amaretto,4526,463
+Winneshiek,Distilled Spirits,3864,175
+Monona,Vodka,94825,9839
+Monona,Tequila,24847,1462
+Monona,Whisky,206241,13328
+Monona,Misc,38923,2548
+Monona,Amaretto,3581,360
+Monona,Rum,90078,6300
+Monona,Brandy,11059,903
+Monona,Schnapps,36669,2560
+Monona,Distilled Spirits,3281,157
+Monona,Gin,6230,594
+Keokuk,Brandy,4132,387
+Keokuk,Rum,19888,1603
+Keokuk,Misc,10765,644
+Keokuk,Whisky,56126,4381
+Keokuk,Gin,2400,240
+Keokuk,Vodka,25958,3276
+Keokuk,Tequila,5027,439
+Keokuk,Amaretto,616,83
+Keokuk,Schnapps,13145,1181
+Keokuk,Distilled Spirits,312,15
+Tama,Vodka,131247,14014
+Tama,Misc,51452,3110
+Tama,Brandy,26378,2148
+Tama,Whisky,243632,16779
+Tama,Amaretto,1628,196
+Tama,Tequila,32249,2131
+Tama,Rum,86530,6228
+Tama,Schnapps,37488,3474
+Tama,Distilled Spirits,2046,114
+Tama,Gin,10040,913
+Adair,Misc,14372,918
+Adair,Whisky,113112,7956
+Adair,Tequila,11397,760
+Adair,Distilled Spirits,1618,110
+Adair,Gin,2051,160
+Adair,Vodka,40851,4101
+Adair,Rum,31541,2376
+Adair,Brandy,7981,695
+Adair,Amaretto,583,77
+Adair,Schnapps,9266,908
+Mills,Misc,33825,1999
+Mills,Whisky,191537,13004
+Mills,Gin,10007,864
+Mills,Vodka,98196,9867
+Mills,Rum,65762,4558
+Mills,Brandy,5652,438
+Mills,Tequila,17035,1135
+Mills,Schnapps,16395,1392
+Mills,Distilled Spirits,1860,80
+Mills,Amaretto,881,105
+Cedar,Misc,33772,2419
+Cedar,Whisky,209160,15568
+Cedar,Vodka,103532,10527
+Cedar,Rum,66596,4828
+Cedar,Brandy,9379,792
+Cedar,Gin,13519,1400
+Cedar,Tequila,15392,1011
+Cedar,Amaretto,1739,192
+Cedar,Schnapps,26425,2010
+Cedar,Distilled Spirits,2242,142
+Benton,Misc,51367,3242
+Benton,Vodka,138430,14600
+Benton,Whisky,288848,21693
+Benton,Rum,103779,7354
+Benton,Tequila,28704,2080
+Benton,Distilled Spirits,4114,178
+Benton,Gin,10103,933
+Benton,Brandy,24499,2159
+Benton,Amaretto,2658,221
+Benton,Schnapps,43782,3419
+Winnebago,Misc,50938,2971
+Winnebago,Tequila,31700,1877
+Winnebago,Vodka,146151,15020
+Winnebago,Whisky,255964,19704
+Winnebago,Brandy,17222,1412
+Winnebago,Rum,137615,10145
+Winnebago,Distilled Spirits,3310,144
+Winnebago,Gin,8734,703
+Winnebago,Amaretto,3298,311
+Winnebago,Schnapps,33579,2477
+Van Buren,Whisky,83594,5163
+Van Buren,Gin,2939,152
+Van Buren,Vodka,35484,3426
+Van Buren,Misc,9750,547
+Van Buren,Rum,27710,2023
+Van Buren,Brandy,1880,162
+Van Buren,Tequila,5630,332
+Van Buren,Amaretto,390,51
+Van Buren,Schnapps,15390,1110
+Van Buren,Distilled Spirits,625,34
+Osceola,Rum,29588,1916
+Osceola,Whisky,110545,8338
+Osceola,Gin,6435,661
+Osceola,Vodka,34161,3852
+Osceola,Misc,17315,1022
+Osceola,Brandy,5382,460
+Osceola,Tequila,9387,473
+Osceola,Amaretto,828,116
+Osceola,Schnapps,19220,1369
+Osceola,Distilled Spirits,462,33
+Hancock,Distilled Spirits,1086,49
+Fremont,Rum,5883,317
+Fremont,Whisky,11133,670
+Fremont,Gin,164,10
+Fremont,Vodka,4383,425
+Fremont,Misc,1241,51
+Fremont,Brandy,133,8
+Fremont,Tequila,679,33
+Fremont,Schnapps,652,35
+Fremont,Distilled Spirits,761,36
+Fremont,Amaretto,24,4
